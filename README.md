@@ -4,7 +4,7 @@ Repository github per il corso di Elaborazione di Segnali Multimediali (ESM) A.A
 ## Informazioni Team
 
 ### Membri
-Christian Perrella 
+Christian Perrella  
 Carolina Di Donato  
 Alessio Giannetti
 
