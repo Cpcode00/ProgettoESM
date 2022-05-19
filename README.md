@@ -8,6 +8,9 @@ Christian Perrella
 Carolina Di Donato  
 Alessio Giannetti
 
+### Link importanti
+**Colab:** link di colab
+
 ## Descrizione del progetto
 Il progetto riguarda la crezione di un Text Detector utilizzando il Deep Learning. In particolare, data un'immagine in ingresso si vuole ricavare l'informazione se è presente o meno il testo nella suddetta immagine.
 
