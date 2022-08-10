@@ -1,5 +1,5 @@
 # README
-Repository github per il corso di Elaborazione di Segnali Multimediali (ESM) A.A. 2021/2022
+Repository github per il progetto del corso di Elaborazione di Segnali Multimediali (ESM) A.A. 2021/2022
 
 ## Informazioni Team
 
