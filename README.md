@@ -15,4 +15,4 @@ Alessio Giannetti
 Il progetto riguarda la crezione di un Text Detector utilizzando una Rete Neurale Convoluzionale. In particolare, dopo la fase di addestramento, data alla CNN (Convolutional Neural Network) un'immagine si ottiene un riquadro contenente il testo. Il progetto si è concluso con ottimo esito e le difficoltà riscontrate sono legate al fatto che le immagini del dataset MSRA-TD500 erano solo 500.
 
 ## Altre informazioni
-Altre informazioni si possono trovare nel Word presente nella pagina GitHub.
+Altre informazioni si possono trovare nel file Word presente nella pagina GitHub.
